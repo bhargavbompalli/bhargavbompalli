@@ -62,3 +62,5 @@ if __name__ == "__main__":
 
     transparent_non_zero_pixels(mask_path, transparent_path)
     overlay_images(original_path, transparent_path, final_out)
+
+    #add comment for git testing
